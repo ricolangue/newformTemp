@@ -1,5 +1,5 @@
 $ git init 
-$ git remote add origin https://github.com/corilang2011/rico.jigijog.git
+$ git remote add origin https://github.com/ricolangue/newformTemp.git
 $ git add .
 $ git commit -m "Message"
 add remote files...

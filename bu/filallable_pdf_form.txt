@@ -1,0 +1,87 @@
+Email Subject: account_name (Fillable PDF Conversion)
+To: to_email
+Cc: cc_email
+Agent queue: to_queue
+
+Dear Valued Client,
+
+We have implemented the necessary change(s) on your website:
+
+page_name
+- added fillable_pdf_form_title link on content area
+page_link 
+
+Should you have other concerns, please let us know.
+
+
+Sincerely,
+Proweaver Support Team
+
+2271
+
+GIT File Path
+git_file_path
+
+Screenshot File Path
+scrn_file_path
+
+-------------------------------------------------
+Form Conversion / ETC
+-------------------------------------------------
+
+Task ID: task_id
+Website Link: website_link
+
+Instructions:
+xxx
+
+Concern:
+Hi miss, please be informed that the ETC for this online form conversion will be until Monday, December 15, 2023. Thank you.
+
+#d1="$(date -d "$date +5 days" +"%a %b %d %Y")"
+d1="$(date -d "$date +10 days" +"%A, %B %d, %Y")"
+echo $d1
+-------------------------------------------------
+For Clarification / Concern
+-------------------------------------------------
+
+Task ID: task_id
+Website Link: website_link
+
+Instructions:
+xxx
+
+Concern:
+xxx
+
+-------------------------------------------------
+5.) Add Form Tracker, Post on Events list
+-------------------------------------------------
+Orch Per day
+
+Application Form
+Total no. of pages: total_num_page pages
+Total no. of pages converted: num_page_converted page
+
+-------------------------------------------------
+For Event List
+-------------------------------------------------
+
+xxxx
+- converted online form (0.5 page)
+xxxx
+
+-------------------------------------------------
+Ticket Format
+-------------------------------------------------
+
+Task ID: task_id
+Website Link: website_link
+
+Instruction:
+xxx
+
+Concern:
+xxxx
+
+-------------------------------------------------
